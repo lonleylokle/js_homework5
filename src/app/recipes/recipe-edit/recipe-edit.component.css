@@ -1,0 +1,12 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+.btn-save {
+    margin-right: 2%;
+}
+
+.edit-recipe {
+    margin-left: 3%;
+}
